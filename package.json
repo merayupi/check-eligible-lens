@@ -1,0 +1,26 @@
+{
+  "name": "check-eligible-lens",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/merayupi/check-eligible-lens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.2",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0"
+  },
+  "bugs": {
+    "url": "https://github.com/merayupi/check-eligible-lens/issues"
+  },
+  "homepage": "https://github.com/merayupi/check-eligible-lens#readme"
+}
