@@ -1,4 +1,3 @@
-"# check-eligible-lens" 
+HOW TO USE 
 
-
-put yopur privatekey lis int privatekey.txt
+put yopur privatekey list in privatekey.txt
