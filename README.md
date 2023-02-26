@@ -1,3 +1,9 @@
 HOW TO USE 
 
-put your privatekey list in privatekey.txt
+
+1. Npm install
+2. Make privatekey.txt and out your list of privatekey here
+3. Node index.js
+
+
+
